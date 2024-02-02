@@ -1,4 +1,4 @@
-#Todo App Overview
+# Todo App Overview
 
 This is a short tutorial on how to pull off a small webapp. I’ll keep this very very short, but it can serve as a reference for more complicated projects. Let’s dive in.
 
